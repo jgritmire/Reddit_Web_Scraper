@@ -1,4 +1,4 @@
-# Project 3: Reddit and Webscraping
+# Project 2: Reddit and Webscraping
 
 ## Contents
 ##### - Problem Statement
